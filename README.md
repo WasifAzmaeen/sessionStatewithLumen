@@ -64,4 +64,4 @@
         > request header and go to the url :
         > [*http://localhost:8000/cart/*](http://localhost:8000/cart/)
 
-    -   The specific cart will be shown with the items.
+    -   The specific cart will be shown with all the item.
